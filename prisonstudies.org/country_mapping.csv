@@ -1,0 +1,223 @@
+86,AFG,Afghanistan
+123,ALB,Albania
+1,DZA,Algeria
+191,ASM,American Samoa
+124,AND,Andorra
+2,AGO,Angola
+226,AIA,Anguilla
+57,ATG,Antigua and Barbuda
+212,ARG,Argentina
+120,ARM,Armenia
+58,ABW,Aruba
+192,AUS,Australia
+125,AUT,Austria
+121,AZE,Azerbaijan
+59,BHS,Bahamas
+175,BHR,Bahrain
+87,BGD,Bangladesh
+60,BRB,Barbados
+126,BLR,Belarus
+127,BEL,Belgium
+78,BLZ,Belize
+3,BEN,Benin
+187,BMU,Bermuda
+88,BTN,Bhutan
+213,BOL,"Bolivia,Plurinational State of"
+128,BIH,Bosnia and Herzegovina
+129,BIH,Bosnia and Herzegovina
+4,BWA,Botswana
+214,BRA,Brazil
+89,BRN,Brunei Darussalam
+130,BGR,Bulgaria
+5,BFA,Burkina Faso
+6,BDI,Burundi
+90,KHM,Cambodia
+7,CMR,Cameroon
+188,CAN,Canada
+8,CPV,Cape Verde
+70,CYM,Cayman Islands
+9,CAF,Central African Republic
+10,TCD,Chad
+215,CHL,Chile
+91,CHN,China
+216,COL,Colombia
+11,COM,Comoros
+12,COG,Congo
+13,COD,"Congo,The Democratic Republic of the"
+193,COK,Cook Islands
+79,CRI,Costa Rica
+14,CIV,Cote d'Ivoire
+131,HRV,Croatia
+61,CUB,Cuba
+228,CUW,Curacao
+132,CYP,Cyprus
+133,CZE,Czech Republic
+134,DNK,Denmark
+15,DJI,Djibouti
+62,DMA,Dominica
+63,DOM,Dominican Republic
+217,ECU,Ecuador
+16,EGY,Egypt
+80,SLV,El Salvador
+17,GNQ,Equatorial Guinea
+135,EST,Estonia
+19,ETH,Ethiopia
+136,FRO,Faroe Islands
+194,FJI,Fiji
+137,FIN,Finland
+138,FRA,France
+218,GUF,French Guiana
+195,PYF,French Polynesia
+20,GAB,Gabon
+21,GMB,Gambia
+122,GEO,Georgia
+139,DEU,Germany
+22,GHA,Ghana
+140,GIB,Gibraltar
+141,GRC,Greece
+189,GRL,Greenland
+64,GRD,Grenada
+71,GLP,Guadeloupe
+196,GUM,Guam
+81,GTM,Guatemala
+142,GGY,Guernsey
+23,GIN,Guinea
+24,GNB,Guinea-Bissau
+219,GUY,Guyana
+65,HTI,Haiti
+82,HND,Honduras
+93,HKG,Hong Kong
+143,HUN,Hungary
+144,ISL,Iceland
+94,IND,India
+95,IDN,Indonesia
+96,IRN,"Iran,Islamic Republic of"
+176,IRQ,Iraq
+145,IRL,Ireland
+146,IMN,Isle of Man
+177,ISR,Israel
+147,ITA,Italy
+66,JAM,Jamaica
+97,JPN,Japan
+148,JEY,Jersey
+178,JOR,Jordan
+98,KAZ,Kazakhstan
+25,KEN,Kenya
+197,KIR,Kiribati
+109,KOR,"Korea,Republic of"
+174,XK,Kosovo
+179,KWT,Kuwait
+99,KGZ,Kyrgyzstan
+100,LAO,Lao People's Democratic Republic
+149,LVA,Latvia
+180,LBN,Lebanon
+26,LSO,Lesotho
+27,LBR,Liberia
+28,LBY,Libyan Arab Jamahiriya
+150,LIE,Liechtenstein
+151,LTU,Lithuania
+152,LUX,Luxembourg
+101,MAC,Macao
+153,MKD,"Macedonia,The Former Yugoslav Republic of"
+29,MDG,Madagascar
+30,MWI,Malawi
+102,MYS,Malaysia
+103,MDV,Maldives
+31,MLI,Mali
+154,MLT,Malta
+198,MHL,Marshall Islands
+72,MTQ,Martinique
+32,MRT,Mauritania
+33,MUS,Mauritius
+55,MYT,Mayotte
+83,MEX,Mexico
+199,FSM,"Micronesia,Federated States of"
+155,MDA,"Moldova,Republic of"
+156,MCO,Monaco
+104,MNG,Mongolia
+173,MNE,Montenegro
+34,MAR,Morocco
+35,MOZ,Mozambique
+105,MMR,Myanmar
+36,NAM,Namibia
+200,NRU,Nauru
+106,NPL,Nepal
+157,NLD,Netherlands
+201,NCL,New Caledonia
+202,NZL,New Zealand
+84,NIC,Nicaragua
+37,NER,Niger
+38,NGA,Nigeria
+203,NOR,Norway
+158,PSE,Occupied Palestinian Territory
+181,OMN,Oman
+107,PAK,Pakistan
+204,PLW,Palau
+85,PAN,Panama
+205,PNG,Papua New Guinea
+220,PRY,Paraguay
+221,PER,Peru
+108,PHL,Philippines
+159,POL,Poland
+160,PRT,Portugal
+74,PRI,Puerto Rico
+182,QAT,Qatar
+54,REU,Reunion
+161,ROU,Romania
+118,RUS,Russian Federation
+39,RWA,Rwanda
+67,KNA,Saint Kitts and Nevis
+68,LCA,Saint Lucia
+229,MAF,Saint Martin (French part)
+77,VCT,Saint Vincent and The Grenadines
+206,WSM,Samoa
+225,SMR,San Marino
+40,STP,Sao Tome and Principe
+183,SAU,Saudi Arabia
+41,SEN,Senegal
+172,SRB,Serbia
+42,SYC,Seychelles
+43,SLE,Sierra Leone
+110,SGP,Singapore
+163,SVK,Slovakia
+164,SVN,Slovenia
+207,SLB,Solomon Islands
+45,ZAF,South Africa
+227,SSD,South Sudan
+165,ESP,Spain
+111,LKA,Sri Lanka
+46,SDN,Sudan
+222,SUR,Suriname
+47,SWZ,Swaziland
+166,SWE,Sweden
+167,CHE,Switzerland
+184,SYR,Syrian Arab Republic
+112,TWN,"Taiwan,Province of China"
+113,TJK,Tajikistan
+48,TZA,"Tanzania,United Republic of"
+114,THA,Thailand
+211,TLS,Timor-Leste
+49,TGO,Togo
+208,TON,Tonga
+69,TTO,Trinidad and Tobago
+50,TUN,Tunisia
+119,TUR,Turkey
+115,TKM,Turkmenistan
+209,TUV,Tuvalu
+51,UGA,Uganda
+168,UKR,Ukraine
+185,ARE,United Arab Emirates
+169,GBR,United Kingdom
+170,GBR,United Kingdom
+171,GBR,United Kingdom
+190,USA,United States
+223,URY,Uruguay
+116,UZB,Uzbekistan
+210,VUT,Vanuatu
+224,VEN,"Venezuela,Bolivarian Republic of"
+117,VNM,Viet Nam
+75,VGB,"Virgin Islands,British"
+76,VIR,"Virgin Islands,U.S."
+186,YEM,Yemen
+52,ZMB,Zambia
+53,ZWE,Zimbabwe
