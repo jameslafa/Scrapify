@@ -18,7 +18,7 @@ In both cases, please create a [Pull Request][1] and we'll be very thankful for 
 
 ####Copyrights
 
-The content of the repository is under MIT License (please see below). To make it short, you can do whatever you want we the code. Read it, share it, modify it, eat it!
+The content of the repository is under MIT License (please see [below][8]). To make it short, you can do whatever you want we the code. Read it, share it, modify it, eat it!
 
 **BUT**, yes there is always one :
 
@@ -56,6 +56,7 @@ Well, first csv is an open format so it should live forever. Then you can open a
 ----------
 ###Thank you
  - [Marie Coussin][7] for your English corrections
+ - [Nicolas Kayser-Bril][9] for being my SPO (Spell Check Officer)
  - You, if you contribute!
 
 ----------
@@ -90,3 +91,5 @@ THE SOFTWARE.
   [5]: https://fr.libreoffice.org/
   [6]: http://prisonstudies.org/
   [7]: https://twitter.com/MarieCoussin
+  [8]: #the-mit-license-mit
+  [9]: https://twitter.com/nicolaskb
