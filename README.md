@@ -44,7 +44,7 @@ Well, first csv is an open-format so it should live forever. Then you can open a
 **If you are a journalist or yet another human being:**
 
  - using [LibreOffice][5]
- - using Excel (but why paying when free software exists ? :-)
+ - using Excel (but why pay when free software exists ? :-)
 
 
 ----------
@@ -55,7 +55,7 @@ Well, first csv is an open-format so it should live forever. Then you can open a
 
 ----------
 ###Thank you
- - [Marie Coussin][7] for your english corrections
+ - [Marie Coussin][7] for your English corrections
  - You, if you contribute!
 
 ----------
