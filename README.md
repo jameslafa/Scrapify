@@ -10,9 +10,9 @@ Don't look for a awesome tool to help you to scrap website, it is not. Here you'
 
 ####Please participate
 
-We can't maintain every script or keep them up-to-date. The scrapped website may totally have changed their structure since the script was built. So we can't ensure that the script will work.
+We can't maintain every script or keep them up-to-date. The scraped website may totally have changed their structure since the script was built. So we can't ensure that the script will work.
 
-If you created some new script to scrap data, we will be please to add it to this repository to help more people.
+If you created some new script to scrape data, we will be pleased to add it to this repository to help more people.
 
 In both cases, please create a [Pull Request][1] and we'll be very thankful for your help.
 
@@ -32,7 +32,7 @@ We won't be responsible for any unlawful use of these scripts because we have lo
 
 #####Why csv files?
 
-Well, first csv is an open-format so it should live forever. Then you can open and use csv file with almost everything.
+Well, first csv is an open format so it should live forever. Then you can open and use csv file with almost everything.
 
 **If you are a developer:**
 
